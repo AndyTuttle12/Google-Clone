@@ -1,0 +1,47 @@
+#menu{
+	float: right;
+	margin-right: 10px;
+}
+#header{
+	overflow: hidden;
+	/* float: left;
+	width: 100%; */
+	margin-top: 10px;
+	height: 25px;
+	line-height: 25px;
+}
+
+#body{
+	text-align: center;
+	width: 80%;
+	margin: 100px auto 0px;
+}
+
+.menu-item{
+	float: left;
+	padding-left: 15px;
+}
+
+.menu-item img{
+	height: 20px;
+}
+
+#footer{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	overflow: hidden;
+	background-color: #f2f2f2;
+	height: 35px;
+	line-height: 35px;
+}
+
+#left-footer{
+	float: left;
+}
+
+#right-footer{
+	float: right;
+	margin-right: 10px;
+}
